@@ -4,7 +4,7 @@
 
 An interactive data analytics web app analysing 114,000+ Spotify tracks across 114 genres to uncover what audio features drive popularity.
 
-Built by **Vishak Edakkattuparambil Biju** — MSc Data Science (Distinction), University of East London
+Built by **Vishak Edakkattuparambil Biju** 
 
 🚀 **[Live App →](https://your-app-url.streamlit.app)** *(update this link after deployment)*
 
